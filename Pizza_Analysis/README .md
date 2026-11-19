@@ -57,10 +57,10 @@ An end-to-end data analytics project examining a full year of pizza restaurant s
 
 ```text
 Pizza-Sales-Analysis/
-├── SQL/
+├── SQL Query/
 │   └── pizza_sales_queries.sql        # All SQL Server KPI and trend analysis queries
 ├── Dashboard/
-│   └── dashboard_preview.png          # High-resolution screenshot of the Excel dashboard
-├── Pizza_Sales_Analysis.xlsx          # Complete workbook (Raw_Data, KPIs, Sales_Trends, Sales_Performance, Dashboard)
+│   └── Dashboard_preview.png          # High-resolution screenshot of the Excel dashboard
+├── pizza_sales_analysis.xlsx          # Complete workbook (Raw_Data, KPIs, Sales_Trends, Sales_Performance, Dashboard)
 └── README.md                          # Project overview, KPIs, workflow, and key insights
 ```
