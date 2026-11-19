@@ -6,8 +6,7 @@ An end-to-end data analytics project examining a full year of pizza restaurant s
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Interactive Dashboard](Dashboard/Dashboard_preview.png)
-
+![Pizza Sales Interactive Dashboard](Pizza_Analysis/Dashboard/Dashboard_preview.png)
 ---
 
 ## 🎯 Key Performance Indicators (KPIs)
