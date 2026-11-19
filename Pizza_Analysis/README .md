@@ -6,7 +6,7 @@ An end-to-end data analytics project examining a full year of pizza restaurant s
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Interactive Dashboard](Dashboard/dashboard_preview.png)
+![Pizza Sales Interactive Dashboard](Dashboard/Dashboard_preview.png)
 
 ---
 
